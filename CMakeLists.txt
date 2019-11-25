@@ -29,7 +29,6 @@ add_library(
         include/CHOLMOD/Core/cholmod_transpose.c
         include/CHOLMOD/Core/cholmod_triplet.c
         include/CHOLMOD/Core/cholmod_version.c
-        include/CHOLMOD/Core/lesser.txt
         include/CHOLMOD/Core/t_cholmod_change_factor.c
         include/CHOLMOD/Core/t_cholmod_dense.c
         include/CHOLMOD/Core/t_cholmod_transpose.c
